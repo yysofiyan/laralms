@@ -1348,7 +1348,7 @@ return array (
     'certificate_verification' => 
     array (
       'title' => 'Certificate Verification',
-      'name_on_certificate' => 'Name on Certificate. Ex. Yan Yan Sofiyan',
+      'name_on_certificate' => 'Name on Certificate. Ex. Nama Lengkap Kamu',
       'date_on_certificate' => 'Date on Certificate. Ex. 2020-11-25',
       'verify_now' => 'Verify Now',
       'not_found' => 'No certificate found for given information.',

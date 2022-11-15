@@ -98,7 +98,7 @@
                     @if($footer_data->copyright_text->status == 1)
                     <div class="col-md-6">
                         <div class="copy-right-text">
-                            <p>Powered By <a href="https://stmik-sumedang.ac.id" target="_blank" class="mr-4"> BPSI 💙 STMIK Sumedang</a>  {!!  $footer_data->copyright_text->text !!}</p>
+                            <p>Powered By <a href="https://mooc.unsap.ac.id" target="_blank" class="mr-4"> MOOC 💙 Universitas Sebelas April</a>  {!!  $footer_data->copyright_text->text !!}</p>
                         </div>
                     </div>
                     @endif
