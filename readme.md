@@ -1,1 +1,3 @@
 ## LaraLMS
+
+### STMIK SUMEDANG
